@@ -1,0 +1,23 @@
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.virustotal.com:443
+DEBUG:urllib3.connectionpool:https://www.virustotal.com:443 "POST /vtapi/v2/file/scan?apikey=64be7cea7bcabaf2be366253b247a6a1075e2a90a71bbc45058398bb8638f8db HTTP/1.1" 200 651
+WARNING:root:function one_file failed: save_json_file() takes 0 positional arguments but 1 was given
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.virustotal.com:443
+DEBUG:urllib3.connectionpool:https://www.virustotal.com:443 "POST /vtapi/v2/file/scan?apikey=64be7cea7bcabaf2be366253b247a6a1075e2a90a71bbc45058398bb8638f8db HTTP/1.1" 200 651
+WARNING:root:function one_file failed: save_json_file() takes 0 positional arguments but 1 was given
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.virustotal.com:443
+DEBUG:urllib3.connectionpool:https://www.virustotal.com:443 "POST /vtapi/v2/file/scan?apikey=64be7cea7bcabaf2be366253b247a6a1075e2a90a71bbc45058398bb8638f8db HTTP/1.1" 200 651
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.virustotal.com:443
+DEBUG:urllib3.connectionpool:https://www.virustotal.com:443 "POST /vtapi/v2/file/scan?apikey=64be7cea7bcabaf2be366253b247a6a1075e2a90a71bbc45058398bb8638f8db HTTP/1.1" 200 651
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.virustotal.com:443
+DEBUG:urllib3.connectionpool:https://www.virustotal.com:443 "POST /vtapi/v2/file/scan?apikey=64be7cea7bcabaf2be366253b247a6a1075e2a90a71bbc45058398bb8638f8db HTTP/1.1" 204 0
+WARNING:root:function one_file_req failed: Expecting value: line 1 column 1 (char 0)
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.virustotal.com:443
+DEBUG:urllib3.connectionpool:https://www.virustotal.com:443 "POST /vtapi/v2/file/scan?apikey=64be7cea7bcabaf2be366253b247a6a1075e2a90a71bbc45058398bb8638f8db HTTP/1.1" 200 651
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.virustotal.com:443
+DEBUG:urllib3.connectionpool:https://www.virustotal.com:443 "POST /vtapi/v2/file/scan?apikey=64be7cea7bcabaf2be366253b247a6a1075e2a90a71bbc45058398bb8638f8db HTTP/1.1" 204 0
+DEBUG:charset_normalizer:Encoding detection on empty bytes, assuming utf_8 intention.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.virustotal.com:443
+DEBUG:urllib3.connectionpool:https://www.virustotal.com:443 "POST /vtapi/v2/file/scan?apikey=64be7cea7bcabaf2be366253b247a6a1075e2a90a71bbc45058398bb8638f8db HTTP/1.1" 200 651
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.virustotal.com:443
+DEBUG:urllib3.connectionpool:https://www.virustotal.com:443 "POST /vtapi/v2/file/scan?apikey=64be7cea7bcabaf2be366253b247a6a1075e2a90a71bbc45058398bb8638f8db HTTP/1.1" 204 0
+WARNING:root:function one_file_req failed: Expecting value: line 1 column 1 (char 0)
